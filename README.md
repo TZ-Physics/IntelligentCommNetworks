@@ -6,3 +6,5 @@ Journal:
 JSAC IEEE Journal on Selected Areas in Communications
 
 JOCN Journal of Optical Communications and Networking
+
+CM IEEE Communications Magazine
