@@ -2,10 +2,10 @@
 
 Journal:
 
-JSAC IEEE Journal on Selected Areas in Communications
+IEEE Journal on Selected Areas in Communications (JSAC)
 
-JOCN Journal of Optical Communications and Networking
+Journal of Optical Communications and Networking (JOCN)
 
-CM IEEE Communications Magazine
+IEEE Communications Magazine (CM)
 
-TSP IEEE Transactions on Signal Processing
+IEEE Transactions on Signal Processing (TSP)
