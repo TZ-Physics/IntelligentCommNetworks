@@ -1,5 +1,4 @@
-# OpticalCommunicationNetworks
-Optical Communication &amp; Networks based on Algorithms
+# Optical Communication and Networks based on Algorithms
 
 Journal:
 
