@@ -12,7 +12,7 @@ Journal of Optical Communications and Networking (JOCN)
 
 Papers:
 
-[OpticalCommunication][Review][ML]D. Zibar, and et al. Machine Learning Techniques in
+[OpticalCommunication][ML][Review]D. Zibar, and et al. Machine Learning Techniques in
 Optical Communication. Journal of Lightwave Technology, 2016, 34(6):1442.
 
 [OpticalCommunication][MFR]X. Mai, and et al. Stokes space modulation format classification
